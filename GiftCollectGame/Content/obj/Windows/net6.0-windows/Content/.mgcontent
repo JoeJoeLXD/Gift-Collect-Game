@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/fonts/highlightFont.spritefont</File>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/fonts/regularFont.spritefont</File>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/images/background.png</File>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/images/explosion.png</File>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/images/firebar.png</File>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/images/gift.png</File>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/images/santa.png</File>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/images/scoreSceneBG.jpg</File>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/images/sky.png</File>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/sound/applause.wav</File>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/sound/ding.wav</File>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/sound/hit.wav</File>
+    <File>C:/Users/y247x/OneDrive - Conestoga College/Desktop/GiftCollectGame/GiftCollectGame/Content/sound/music.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
